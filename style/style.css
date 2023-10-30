@@ -150,4 +150,8 @@ body {
     .apresentacao__conteudo {
         margin: auto;
     }
+    
+    .apresentacao__links__navegacao {
+        width: 70%;
+    }
 }
